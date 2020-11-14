@@ -1,4 +1,4 @@
-![OS-Lebs](https://socialify.git.ci/isArtJay/OS-Lebs/image?description=1&font=Rokkitt&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FisArtJay%2FOS-Lebs%2Fmain%2FNon-primary%2520resources%2Flogo.png&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+![OS-Labs](https://socialify.git.ci/isArtJay/OS-Labs/image?description=1&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FisArtJay%2FOS-Labs%2Fmain%2FNon-primary%2520resources%2Flogo.png&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
 # OS lebs
 
