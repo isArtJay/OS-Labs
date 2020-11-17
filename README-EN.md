@@ -15,7 +15,7 @@
 
 # Origins
 
-In our junior year, we offered a professional course on operating system principles, mainly focusing on basic theory. Because I want to study this course in depth, I read **HaGongDa's "Operating System" open course by Mr. Li Zhijun**and **BeiDa's "Operating System Principles" basic course by Mr. Chen Xiangqun** at the same time with **Tang Xiaodan's "Computer Operating System (4th Edition) "** as the tutorial material. This will ensure a very solid basic knowledge.
+In our junior year, we offered a professional course on operating system principles, mainly focusing on basic theory. Because I want to study this course in depth, I read **HaGongDa's "Operating System" open course by Mr. Li Zhijun** and **BeiDa's "Operating System Principles" basic course by Mr. Chen Xiangqun** at the same time with **Tang Xiaodan's "Computer Operating System (4th Edition) "** as the tutorial material. This will ensure a very solid basic knowledge.
 
 Once you've learned the theory, you have to have practice. I was thinking: "there are some simple experiments can let me learn the theoretical knowledge before the series, practice and apply it", and then I think with this many times Google, Baidu, head into the sea of search engines, all kinds of Link dominated my mouse, in the end is not! And the end.
 
